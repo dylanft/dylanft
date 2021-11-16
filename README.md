@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dylanft
 - 👀 I’m building a better internet centered around Bitcoin where individuals have ownership of their money and data using the Stacks ecosystem (@blockstack https://stacks.co/)
-- I'm focused on designing a working capital optimization service that let's users put their L1 Bitcoin to work in a trustless manner for USD stablecoin loans to optimize supply chain finance.
+- I'm focused on designing a working capital optimization service that let's users contribute to liquidity pools and lets businesses put their L1 Bitcoin to work in a trustless manner for USD stablecoin loans to optimize supply chain finance.
 
   
 
