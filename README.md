@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @dylanft
-- 👀 I’m building a better internet centered around Bitcoin where individuals have ownership of their money and data using the Stacks ecosystem (@stacks-network https://stacks.co/)
+- 👀 I’m building a better internet centered around Bitcoin where individuals have ownership of their money and data using the Stacks ecosystem.
+- Learn more about Stacks here: https://github.com/stacks-network  ,  https://stacks.co/ 
   
 
 <!---
